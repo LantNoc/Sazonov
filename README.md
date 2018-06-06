@@ -1,2 +1,9 @@
 # Sazonov
-https://www.youtube.com/watch?v=FMy2UjYe_oc 
+#include using namespace std;
+
+int main() 
+{
+ cout << "Hello!" << endl; 
+system("pause"); 
+return 0; 
+}
